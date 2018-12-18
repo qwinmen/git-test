@@ -1,3 +1,4 @@
 [submodule "src/_PK.Apgm.AngularUI"]
 	path = src/_PK.Apgm.AngularUI
 	url = C:\\Projects\\submodule-test
+	ignore = dirty
