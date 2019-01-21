@@ -1,0 +1,4 @@
+public interface ISaticTypeName
+{
+	void AddStatus(int numeric);
+}
