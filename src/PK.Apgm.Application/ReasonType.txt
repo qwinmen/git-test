@@ -1,0 +1,4 @@
+public class ReasonType
+{
+	public StatusType StatusType {get; set;}
+}

@@ -1,0 +1,4 @@
+public class Feature_statusHistory
+{
+	public bool Status {get; set;}
+}
