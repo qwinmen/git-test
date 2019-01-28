@@ -1,4 +1,4 @@
 public class ReasonType
 {
-	public StatusType StatusType {get; set;}
+	private string StatType {get;}
 }
